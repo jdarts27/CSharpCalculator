@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\bin\Debug\DardisJoshuaCalculator.exe.config
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\bin\Debug\DardisJoshuaCalculator.exe
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\bin\Debug\DardisJoshuaCalculator.pdb
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.Properties.Resources.resources
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.exe
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.pdb
+C:\Users\Owner\source\repos\DardisJoshuaCalculator\DardisJoshuaCalculator\obj\Debug\DardisJoshuaCalculator.calculatorForm.resources
